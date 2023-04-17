@@ -1,0 +1,34 @@
+#pagination {
+  text-align: center;
+}
+
+#pagination a {
+  text-decoration: none;
+  background: #088178;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 600;
+}
+
+#pagination a i {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.section-p1 {
+  padding: 40px 80px;
+}
+
+@media (max-width:477px) {
+  .section-p1 {
+    padding: 20px;
+  }
+}
+
+@media (max-width:799px) {
+
+  .section-p1 {
+    padding: 40px;
+  }
+}

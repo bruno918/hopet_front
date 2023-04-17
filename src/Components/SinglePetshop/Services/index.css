@@ -1,0 +1,19 @@
+select {
+  border: none;
+}
+
+.buttonagenda {
+  background: transparent;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 10px;
+  transition: all 0.3s ease;
+}
+
+.buttonagenda:hover {
+
+  color: #1cc0cfa8
+}

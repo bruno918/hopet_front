@@ -1,0 +1,15 @@
+#page-header {
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-image: url("../../../img/Shop/PageHeader/PageHeader.jpg");
+  background-size: cover;
+  padding: 14px;
+}
+
+#page-header h2,
+#page-header p {
+  color: #fff;
+}
